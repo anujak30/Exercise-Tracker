@@ -9,9 +9,8 @@ This project uses the following technologies:
 <li>Node.js</li>
 </ul>
 <br><br>
-To start the project, run the following commands: <br>
-```
+To start the project, run the following commands: <br><br>
+
 npm start<br>
 cd /mern-exercise-tracker/backend<br>
 nodemon server<br>
-```
